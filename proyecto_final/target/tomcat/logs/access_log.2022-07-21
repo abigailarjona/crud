@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Jul/2022:21:09:03 -0300] "GET /proyecto_final/codoacodopf/paginas/registro.html HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Jul/2022:21:09:09 -0300] "GET / HTTP/1.1" 404 - http-bio-8080-exec-2 0

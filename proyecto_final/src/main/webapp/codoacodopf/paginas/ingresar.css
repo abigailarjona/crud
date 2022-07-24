@@ -1,0 +1,36 @@
+.logo{
+	border-radius:50%;
+	
+}
+.container{
+	padding:5%;
+	padding-left:25%;
+	padding-right:25%;
+}
+.boton{
+	margin-top:2%!important;
+}
+h1{
+text-decoration: underline;
+}
+
+.L_lista{
+	background-color: rgba(247, 138, 67);
+}
+
+
+.form-pedido{
+	margin-right: 20%!important;
+	margin-left: 20%!important;
+}
+.acepto{
+	text-align: initial;
+}
+
+
+.caja-lista{
+	padding: 5%;
+	align-items: center;
+	padding-right: 6%!important;
+	padding-left: 6%!important;
+}

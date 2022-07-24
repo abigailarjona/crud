@@ -1,0 +1,51 @@
+
+
+.logo{
+    align-items: center;
+    height: 300px;
+    align-content: center;
+    padding-left: 35%;
+}
+.inicio{
+    background-color: rgba(247, 138, 67);
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+p{
+    text-align: left;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.botones{
+    margin-right: 10px!important;
+}
+
+
+.marcas{
+    padding-left: 15%;
+    padding-right: 15%;
+   
+    align-items: center;
+}
+
+.dmarcas{
+    background-color: rgba(247, 138, 67);
+    margin-top: 15%;
+
+}
+
+.mapa{
+    margin: 2%;
+
+}
+.su-mapa{
+    align-content: center;
+    padding-left: 8%;
+    padding-right: 8%;
+
+}
